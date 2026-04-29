@@ -39,3 +39,8 @@ This project analyzes 50,000+ global AI & data science job listings to uncover t
 ## 📊 Dashboard
 <img width="1033" height="561" alt="Job_1" src="https://github.com/user-attachments/assets/62888e38-595a-4dfd-a110-17cf57ca55db" />
 <img width="964" height="621" alt="job_2" src="https://github.com/user-attachments/assets/d9785516-703b-441e-a1c8-3afe3bbc4bbc" />
+
+---
+
+## Author
+Zain Abbas - LinkedIn:www.linkedin.com/in/zainabbasdataanalyst
