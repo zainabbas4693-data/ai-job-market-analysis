@@ -1,0 +1,21 @@
+"experience_level","skill","salary"
+"Senior","NLP",157432
+"Senior","AWS",157382
+"Senior","Scikit-learn",157272
+"Senior","Python",157250
+"Senior","Azure",157236
+"Senior","PyTorch",157168
+"Senior","Computer Vision",157152
+"Senior","TensorFlow",157115
+"Senior","SQL",157102
+"Senior","GCP",157102
+"Senior","R",157025
+"Mid","PyTorch",107839
+"Mid","Computer Vision",107715
+"Mid","TensorFlow",107667
+"Mid","GCP",107555
+"Mid","AWS",107518
+"Mid","R",107485
+"Mid","NLP",107465
+"Mid","Python",107424
+"Mid","SQL",107411
